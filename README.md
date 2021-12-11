@@ -124,5 +124,5 @@ Run the playbook, and navigate to the Kibana Server URL to check that the instal
 Run these commands to first change to the directory where the Elk.yml file will be saved. You will run the curl command to download the elk-server
 
 cd /etc/ansible
-curl -i href=“https://github.com/Nunzo52/Azure-Lab/blob/main/ELK.yml”
+curl -i href=“"https://github.com/Nunzo52/Azure-Lab/blob/Linux/ELK.yml"”
 ansible-playbook /etc/ansible/Elk.yml
